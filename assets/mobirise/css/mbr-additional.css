@@ -1124,8 +1124,13 @@ section.lazy-placeholder:after {
     padding: 1rem !important;
   }
 }
+.cid-s6JxZkca7U {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #4f4943;
+}
 .cid-s6IpaPG6IM {
-  padding-top: 135px;
+  padding-top: 45px;
   padding-bottom: 135px;
   background-color: #073b4c;
 }
@@ -1144,10 +1149,14 @@ section.lazy-placeholder:after {
 .cid-s6IpaPG6IM .card-wrapper {
   height: 100%;
 }
+.cid-s6IpaPG6IM .card-title {
+  text-align: center;
+  color: #e1730b;
+}
 .cid-s6Isq46OiD {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #e1730b;
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #635a51;
 }
 .cid-s6Isq46OiD .carousel-control {
   background: #000;
@@ -1441,7 +1450,7 @@ section.lazy-placeholder:after {
   backface-visibility: visible;
 }
 .cid-s6IsTNCvxa .mbr-section-title {
-  color: #f9f295;
+  color: #e1730b;
 }
 .cid-s6IvAK0dyc {
   padding-top: 90px;
